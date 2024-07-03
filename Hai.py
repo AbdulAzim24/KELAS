@@ -1,1 +1,1 @@
-print ("hello Penang")
+print("hello Penang")
